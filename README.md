@@ -13,5 +13,9 @@
   <img align="center" alt="k8s" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
  <img align="center" alt="aws" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">     
  <img align="center" alt="azure" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">        
- <img align="center" alt="linux" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">      
+ <img align="center" alt="linux" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">   
+ <img align="center" alt="terraform" height="30" width="40"   src="https://raw.githubusercontent.com/shuaibiyy/awesome-terraform/master/terraform.svg">          
 </div>
+
+  
+  
