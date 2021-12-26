@@ -35,4 +35,6 @@
 <img align="center" alt="cka" height="75" width="75" src="./icons/logo_cka_whitetext-2-2-300x300.png">
 <img align="center" alt="cks" height="75" width="75" src="./icons/kubernetes-security-specialist-logo-300x285.png">
 <img align="center" alt="exin" height="75" width="75" src="./icons/exin.png">
+<img align="center" alt="exin" height="75" width="75" src="./icons/cloud-computing-foundation.png">
+<img align="center" alt="exin" height="70" width="70" src="./icons/exin-1.png">
 </div><br>
