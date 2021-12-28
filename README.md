@@ -35,7 +35,7 @@
 <img align="center" alt="exin-1" height="120" width="120" src="./icons/exin-1.png">
 <img align="center" alt="exin" height="130" width="130" src="./icons/cloud-computing-foundation.png">
 <img align="center" alt="exin" height="130" width="130" src="./icons/exin.png">
-<img align="center" alt="redhat" height="110" width="130" src="./icons/redhat-logo-ex280.png">
+<img align="center" alt="redhat" height="200" width="220" src="./icons/redhat-logo-ex280.png">
 <img align="center" alt="cka" height="75" width="75" src="./icons/logo_cka_whitetext-2-2-300x300.png">
 <img align="center" alt="k8s" height="75" width="75" src="./icons/aws-certified-solutions-architect-associate.png">
 <img align="center" alt="cks" height="75" width="75" src="./icons/kubernetes-security-specialist-logo-300x285.png">
