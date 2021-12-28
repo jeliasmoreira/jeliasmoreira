@@ -32,9 +32,9 @@
 
 
 <div style="display: inline_block">
-<img align="center" alt="exin-1" height="70" width="70" src="./icons/exin-1.png">
-<img align="center" alt="exin" height="75" width="75" src="./icons/cloud-computing-foundation.png">
-<img align="center" alt="exin" height="75" width="75" src="./icons/exin.png">
+<img align="center" alt="exin-1" height="100" width="100" src="./icons/exin-1.png">
+<img align="center" alt="exin" height="110" width="110" src="./icons/cloud-computing-foundation.png">
+<img align="center" alt="exin" height="110" width="110" src="./icons/exin.png">
 <img align="center" alt="redhat" height="70" width="90" src="./icons/redhat-logo-ex280.png">
 <img align="center" alt="cka" height="75" width="75" src="./icons/logo_cka_whitetext-2-2-300x300.png">
 <img align="center" alt="k8s" height="75" width="75" src="./icons/aws-certified-solutions-architect-associate.png">
